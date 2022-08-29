@@ -1,3 +1,3 @@
 # miscellaneous
 
-Some extra materials from my tutorials or personal notes.
+Some extra materials from my tutorials and personal notes.
